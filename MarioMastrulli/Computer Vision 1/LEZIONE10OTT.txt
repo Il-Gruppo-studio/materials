@@ -1,0 +1,131 @@
+of the light yeah and a larger variation of the intensity of the number of photo collected by the sensor if you increase that brightness because
+
+so if you have a sensor that Acquire 100 Fulton ics is equal to 10 but if you have 1,44
+
+the number of
+
+of the signal
+
+shut
+
+so
+
+and you can now evaluate the signal to noise ratio in this case the bestest signal noise
+
+and doesn't depend on your instrument or your sense is depends only from the nature of the life
+
+form of noise is related to tell my current the sensor this is the output is proportional to the illumination and the integration time is the illumination on the surface of the
+
+the time that you used to acquire Photon on yourself the output senior can be an answer that by increasing the integration time are generally use it for low light level application and this approach is limited by The General picture is integrated such as a photo current exposure time you can acquire knowing density subject but increasing the important time
+
+but increase also the tell my current and therefore the dark current and the noise
+
+sens even when they surface is children from incident life if you covered the sensor or the lens in any case when we take a picture the science of produce some signal that is little only is the result of imperfection or impurity in depletion of the silicone dioxide interface that provide a part for balance
+
+energy to change this state and they can meet in this way and and they produce noise so there dark
+
+the
+
+decrease or increase by factors to every 60 degrees
+
+and for example camera used for acquiring us to photography are always refrigerator because reducing the temperature you reduce the thermostat because reducing the temperature you reduce the thermostat
+
+and the same number
+
+statistical correct by that frame Supply my stock price my stock price only
+
+but cannot be removed by that frame subtraction and this is the time of noise
+
+a picture using the exposure if you take with your camera a picture tonight the night time you can set
+
+and how work your camera if you set that long exposure correction your camera you can observe that the camera you can observe that the camera
+
+doctor
+
+this second picture
+
+the information from the light because the shop is closer
+
+subtract from the first email the second he made for respond to that frame collection
+
+and shutter speed ISO represent the game the amplification the signal shutter speed is the integration time but the second thing
+
+and to remove from the first and dark noise can not be removed with dark frame subtraction because in the statistical variation in the dark frame dark noise
+
+independent fish it is the elephant equivalent of photos shop noise and as you can observe the dark noise can be evaluated by the √5 so so if you use it very long exposure that's why very low light image for example a Galaxy
+
+that cannot be removed with dark frame subtraction
+
+Fox backgrounds.com is pointed to at that pixel that is nice this
+
+fucking the duck frame good thing they need you on the right side of the slide with there is no more that red pizza but there is also dark noise completely another form of noise is not
+
+like the shot or dark
+
+accuracy with which you can with which can read the number of photos and this is a constant number which depends on the sense each sensor as it's own without is created within the camera
+
+I know amplifier and attend reproduced image which we can read the number of photon captured by the sensor and this is a constant number which depend on the size
+
+the increase in proportion to read out speed higher the results people know where the timing
+
+sorry short time higher the result noise
+
+for example if you have an email to noise equal to Plus or middle 100 and we do a 30 second exposure at High School
+
+Indy more or less 100 is better than without we can acquire or receive the senior the correspond to 9,900 electron or 10,100 so
+
+is equal to the signal 10,000 and divided by the range of this due to the doubt?
+
+equal to 50 to 2% of the value of the signal
+
+to your
+
+10,000
+
+we have an exposure shorter cuz you identify more so you can apply the same number Signal with like the shorter integration time so we expose the center for just one hour
+
+when a little photo so in the first image with the 100 ISO your flight 10,400 because we have 30 second exposure if you increase the sensitivity you shorter
+
+the second
+
+before the second example the signal to move your issue is the signal equal to 100 / 200 in this example we have just a signal noise equal to 0.5 equal to 0.5
+
+increase too much
+
+can be too high to obtain a useful image
+
+do you want to acquire a low light Target for example you want a picture of the Stars how you can do you can increase the exposure time increasing the exposing time
+
+but
+
+Universal service the rotation of the earth during the acquisition of the future so we have it longer time but we cannot observe the start like a single point but we had just a segment to eat shit start so the other way is to increase the sensitivity of yourself crazy so you can shorten but this can produce more noise so we have to use other way to acquire for example after photography
+
+is to use it stacking require more picture of the same Target and after you can make a stack of all this picture and every age of this picture in this way we can obtain it better image require more picture of the same Target and after you can make a stack of all this picture and every age of this picture in this way we can obtain it better image compared to a longer time
+
+you can take photo of the study Sky fix amount without stepmother to follow this and is that exposure time is too short you have no segmented
+
+I'm not so you can increase the sensor game in the high ISO but this increase also the noise or you can increase this for your time this way you have less noise but this guy is not perfect well no point for each Style please and empirical tell you how how long you can take your picture for a given fucking lens yeah yeah yeah yeah
+
+between 600 and the fucking lands is means that you are taking a picture of Galaxy with the x600 millimeters lens
+
+can use just one second of exposure if you with the 600 mm you use more than one second can use just one second of exposure if you with the 600 mm you use more than one second elliptical object more longer the exposure time
+
+in millimeters lens with the food same camera you can take longer exposure time about four seconds so if you want to take a picture like this way you must use a wide angle
+
+name of it for example 40 seconds into the 15 mL photo lens stop but the other way to obtain a good image with no light level
+
+see the signal to noise ratio of a single image acquired with the game ISO equal 100 this example a single frame acquired women again
+
+find 24 if you double the sensitivity on your camera you take a picture with the 200 ISO the signal nowhere because amplifier
+
+we have a female conversation equal to 21.45 but if you take two pictures but if you take two pictures
+
+200 High School and average distribution you can say a signal to English 66 you can observe that everything all
+
+compared to the major and so on if you want to amplify apply
+
+picture taken to 2005 picture taken to 2005 image acquired with 400 hydrocity
+
+that is more
+
+can see the number of image stacking needed to obtain the same singular noise ratio for example so % 100 but glad to save it Administration you have to find the intersection between the card of 200 ISO glad to save it Administration you have to find the intersection between the card of 200 ISO if you want to reduce the exposure time you double again this sensitivity and Crossing is about here the same thing in the left side of this image please and diaphragm equal to 1.8 and an ISO equal to 1,600 you can observe almost nothing but if you average 300 of this image but if you average 300 of this image on the right side of this slide this is the effect of stacking of several hundred image technique doctor can use it to reduce the noise you don't reduce the noise you improve the signal to noise ratio we will see that with sticking we require more noise but the senior that we apply so increase noise and increase also the signal but the signal increase the higher to higher level so their issue between singular to the and if they listen see you Monday morning brother okay maybe

@@ -1,0 +1,126 @@
+hey we do incident photo so nowadays the device tend to be even always more efficiency more efficient in your device and it's more better the quality of your image in low light conditions with less noise
+
+of the human eyes we introduced the sensitivity card of the your sensor code and rolls that in this life are presented by the colored line through green and red line and the superposition on this car hello our system to perceive different shade of color in the black car with blackout we represented the sensitivity device Hospital the
+
+awesome information for longer wetlands in the interaction part of the spectrum we cannot have not able to see the for example live from 1700 to 1,000 ml but I don't need a device for this reason there is always an inference in the filter on the Samsung of your camera this filter is an introduce it to remove the longer wetland otherwise you can perceive a different image really different from what you see with your eyes but there is also some problem because for example and not another different filter that you can find your camera remove all the way from 1700 picture of the enable app never mind is it any first time so the same image is very different of the nebula if you apply the picture with a normal camera with Android phone filter I shoot an accessible this is the same object acquired with the same exposure time with the same lens but different sensor the camera is the same but on the left side the camera is a commercial camera with a different filter on the sensor on the right part of the image we require the same image with the same exposure time with the same lines in the same condition but the inner filter was the most reward so we can apply also Oliver H Band in the infrared and where the nebula and meet the larger energy and you can observe it different
+
+so this is the example of the spectrum sensitivity of the sensorize we saw that the sensor usually has a larger sensitivity band compared to the hour High another effect that we have to considered is the electricity failure in electronic device I wanted efficiency remain all over the same regardless of the shutter speed it means that if you explore a sense of for one second or for 10 minutes appointment if you see doesn't change but it is not true if you use an egg holder chemical Center efficiency reduce it when you have a long exposure time and you have to use always compensation to reduce the reciprocity failure you can see Red Lion the responsive car of the Delta 100 pelicula films and on the X and sorry
+
+do you have to use to apply this picture for example by Expositor you in one way in 25 seconds the correct exposure but very exposure it should be about the 60 this is the real photo of the adjuster photo of the adjuster but the device this is only for older system based on Capital sensor in other important things is that
+
+undetected by our brainic scale is very important because using elevating scale you are able to recognize it very soft noise for example and the same time very strong noise and the same for your eyes you can recognize the really like very low level life of star but you can always always concern also a very brightness sheet for example in high protein or 20 very high intensity light and this is possible because your brain always use a very scared who even wait to see us the hardware device understand so marks always in itself in the first laughter response function of the input brightness of the target is on the please to the brightness you know so that's the reason nothing really different for this reason when you acquire and engage with the other side so you have to compensate the electronic device to produce an image that are we can recognize this is just an example all but a major applied by the sensor before the location the lower intensity level or lower equal level we have higher output today later so this is the reason why image acquired myself so without compensation is always very dark but when we acquire this image in your camera or in your computer you have to apply to me transformation and in after not anything compensation you can succeed the same age that you receive by your eyes but dinosaurs are always linear so you have to compensate with this look at me and the now we start to see something about how we perceive a weekend acquire call image so until now we talk about the size of the wire some information visit on the number of photos that you need to face about how we can apply called with the Scott only for
+
+that images
+
+which one is the difference sensitivity card and we know nothing
+
+how much to acquire an image call so Indigent image is always representative by a matrix of pixel
+
+converter call image by photosynthesis the output image especially and the format my feature element called pixel a single photos associated with each sampling point represent the easiest light er all the color schemes but with one sense you can avoid only information in one color company so you can form an image picture before in this picture you need the tree color information for each Pizza so that's going for them to Blue company but it usually for each pixel in your camera you cannot worry just one for this information this means that this pizza for example can apply only the red component the other picture can apply only information on the green complex so each picks up your camera can apply only one color conference and this is the reason why the girl image produced by the size of must be the most to produce a true color image area code name all the information of each color so do we still need the color red green and blue of color image we have to the timing sorry been attended to value of the two missing component of each pixel in the color and filter array image CFA means color filter array because in front of the sensor of your camera there is a color filter array Discovery is using to produce the color information a different color information for each Pizza
+
+here you can see how work at color sensor in the bottom right part of image you can see
+
+Benson then they forget today information on the sensor and just over the sensor you have the color array filter the color red filter and you can see
+
+Larry like this and under each one of the square at least one sentence this means that for example in this picture in this picture you're only the green component information you have no information in this picture about the right or blue company
+
+I think you can obtain the information on the other component for the same Pizza by interpolation other technique can be used in different kind of camera in this example
+
+each one covered by different color filter and the light that arrive in the lens is treated by Prism in three component each one of different website so here in this sensor around only the blue component of image in this combo in this size around only the green company and there's another one for me because so you acquire in the same time three image of the same machine there is no the mosizing need here because we have three people completion for each color company you need interpolation here you don't need internet ?? nothing produces by Sigma and if you use a very different device in this device we have a layer in the sensor so we have a several layer and each layer is a sensible to a different wavelen gth the topmost layer is accessible to the blue company the medium layer is sensible to Green problem and the bottom layer is essential only to rent girlfriend with this kind of sensor you have information for each pixel in the all the color components you don't need the information for this guy no sense of volume but I think that now is discontinued with the production of this kind of signs of because the price is too low and there are very particular communication to produce a full size sensory technology for now there's no more production of the size of a signal but it's very interesting because it producer very accurate color image and
+
+the biggest one you can see the input light that they forget on the sensor and again for each Pizza you have just the information about
+
+what size of 1 million pixel 1 megapixel you have not one Mega pixel brand 1 megapixel new 1 megapixel green they want to make one one megapixel prepare for all the information so something and only cleaning company information other people only the red green Converse and so on and you can also serve that for a pizza area you have a large number of green sensor compared it today right on blue why you have a lucky number inside so in the photo figure it is located by it by your future if you remember in your phobia you're only two colors so that remain and red you have no blue sense of in the phobia because the weather is very different too complaints and using only mean and right otherwise you have more sharper future because we have blessings we have left another green also because our eyes had a more sizable to the green weather the sensitivity card at least maximum for the green color component in our eyes so the size of the larger number of Princess of our eyes
+
+we have a filter color filter that alone too fast only the Waveland specific requirement to the filter for example where we have a red filter they open the heat today
+
+women are deflected
+
+according but this kind of size of precision Federal image the camera produce username age that had to be the process by a software to reduce the real Authority image here we have a simulation of this process easy stuff and you're bored machine this is the fire color filter ready that you have your camera and this is the acquired image radar but if you do in this red square this is the road data acquires by your camera before the society
+
+call of information you have to process their own data for example in jpg image so starting from the buyer for the future you apply three different information you can ask for each Pizza every color information and you can change and jpg images
+
+but this need an interpolation of the rotator and this in this interpolation can produce some Africa in the final image the people effect at the same example so this is just a simulation you have a medical doctor on the Xbox you have a medical doctor on the Xbox and on the right part of this mission
+
+in this battle
+
+example if you want to use today by eating your interpolation and you want to evaluate the confidence of the pixel 3 ately
+
+Pizza for the red
+
+when do that thanks it's the last number let's say something where you can be different you can find here the expression and this is the reason that by billionaire by linear preparation you can observe this short different high frequency area this offense I betterized by high as your pregnancy and this high probability introduce the people effect due to the definition technique used in the the most I think and the problem is like explain
+
+different intensity and lower intensity that we could be and higher than that we call age and in the image we have that acquired information by the color feature a IR layer for refrigerator and in the sea where the fun animate you know sir that there is it the line just over there connection between plant city that we have a different color that are not present in the original shape and this is used in preparation when you in Tampa later for example this value for the legend we obtain the same DHR the same for the grip for the green magic you want to evaluate this value this is the very protecting company the same for the blue component so when we some is three layer we obtain a different distribution of the three component in the area where we have a little DVD of intensity and this introduce this false color not I'm not present in the real estate this is an effect of the most acting toilet paper effect s
+
+process a group of four closer pics of just one out of pizza for this meat it means this is the HP Center but we can consider this forclusive pizza just one output pixel and the color of this album Pizza is due to the information of four April pizza so the totally more accurate but we in this way reduce the resolution of the output image we have the role in half the color so the size of the area it just a quarter they're helping me to compare to the evil area of State sensor we can have other doctor example but we use it for this this four pizza into Pizza to generate the one half of pizza but we can use also the center part to form another output Pizza so we can produce a new image more than the size of the input sensor but with more operated color reproduction about to go but if you said their Solution on the edge if you find a comparison of the effects of the biofuel 30 that don't bother me slide compared to a liar sensor volume okay and this is
+
+eBay buyer basic sensor we introduced some color that is not real
+
+preparation volume volume eight because there is no interpretation in the following Center
+
+all these two kind of Technology each of the tree for me on the player respond to the world visible light spectrum the Great so the RGB designation of each of the layer of this kind of sensor represent his referred to the point of each layer so it's very heavy the competition needed it to transform the information out the output of a formula sensor to an RGB image a very complex and there is no compared to a buyer entering visitor sensor so there is no color filter but I probably require quite severe road to RGB conversion algorithms and this is slow I can't introduce noise compared to a buyer heater already sensor
+
+second layer player I'm not transparent and so they introduce some light loss the bottom layer received less light compared to the bottom layer to compensate for this effect for myself and by your sensor the resolution of audience is less than that we can have a buyer business sensor
+
+are more sensitive light for all Coral and this means that the is a disparate desire Ray sensor is less noisy compared to form factorial and any less noise you can amplify more signal if you have more noise if you amplify this evening I'm amplify also the noise for this reason follow me on the side so that I don't know it's important and cannot be Amplified too much in a normal you can amplify more this evening if you get amplifier see now incrementing that I saw on your camera phone 50 to 100,000 another Fountain you are five very strongly Casino in the Republican sensor in the maximum sensibility is about 400 ISO 400 compared to 100,000 it's very different than the amplification you can apply to a professional compared to a photo sensor
+
+with exposure if you underexpose with the organizations and another things is that the rule fine of the following sensor is very large because if you have fun and make a pizza here for yourself so you have a dream Mega pics of information for because for each pixel you have to store information on each other so
+
+just one Mega
+
+that's the number of Pizza but the quality is more accurate in the following because this kind of sensor does not require internet and there is no energy filter over the performance we saw we see that in common sense so you have an infra head feel dirty movie infrast company of life but we also have and the amazing filter to reduce the effect of the night Wister sending greater
+
+was it the color Edison battery would be some donuts and other things in the size of the sensor so the different layer of a problem we have different size of a pixel that I use it for information in the top level the blue player yesterday in the second area in the bottom layer in the same area
+
+and call you information why the last day of my only color information the brightness aluminance information is layer and the chromatic component supplier also by the two bottles so it's very different than the fact of the size and the sensitivity of this session with Focus you can acquire more academic color but you have some other kind of problem so it's very different than the fact of the size and the sensitivity of this session with Focus you can acquire more academic color but you have some other kind of problems you cannot amplify too much the signal and if you don't require correct exposure according to the future is low and another part with the buyer call refrigerator hey you can use a very high resolution inside so it's more than compared to call him you getting it on my phone receiving number and go to the signal to noise ratio is higher and another part you can have some for people are affecting you that it to take the preparation effect
+
+like web access with the United number of Pizza
+
+dynamic
+
+at the low cost in the center isn't in the future of an ideal sensor question is very far away from this specific this is just an example of industrial science of uses for a commercial accounts very high resolution
+
+are you doing about the 14th maybe the larger one at 100 megapixel this is very high resolution but it used only for a particular camera this is just an example how in the crop and the age you tell to those new resolution because a very high resolution in Canada
+
+so this is just an example in time only 14 Industrial applications and yeah we can see the characteristics of an idea
+
+that is linear dependent of the number of photos that he does face on the sensor starting from zero go to anything Infinity but in the real sensor we cannot evaluate to low life to live why because here we have noise and the number of electrons produced by a Samsung is a very narrow today noise so we can distinguish signal of noise this is where you represent
+
+and also for higher level there is a value how does the planet we have separation we cannot apply more information Beyond this level for him thanks
+
+on the surface of love is to face higher will be the value of the saturation smaller the pixel in your device smaller the value of the situation this means that also the dynamic on the sensor is related to the side of the Samsung in a smartphone for example you're very small sense of compared to
+
+in a medium sized camera professional camera you can have the same resume
+
+not your area
+
+Dynamics email we love recessive this is the main difference between a small sensor in smartphone and the larger size of the reflex or medium format and the noise that introduce the name of the public signal s in the sense the main source is related to terminal noise demonized means that always essential producing signal also when is not the exposing blood if you take a picture of your camera covering less no light it doesn't face but when you observe it will take you can see some spot and lose of your pictures why because there is some elephant produces in any case by yourself also when the sensor is not directly by the line in due to the terminal noise
+
+the noise can affect the dynamic Terrain obviously dead is defined as the ratio of Maximus in this case representative this value from lower level to saturation level and the mountains
+
+capacity and evaluating the number of electron that can restore it in each pixel
+
+and this is the situation signal for the bank of the number of electron can be stored in need to fix them the minimum of signal depend on the noise floor electrons that produces by family factor and it doesn't fact producing noise that equivalent to a lower level illumination and for this reason we have a new value and lower than this value cannot recognize anything out because dealer is less than 10
+
+we have a picture of a red light image so
+
+pick
+
+you don't said the McDonald's we have no information in the background because all the pizza that's why the background have separate to me there is no information when you have separation in damage and for CCD sensor the noise
+
+is everything that is not present in the regional imaging New York in this produced by the device itself and the noise and various Christians depends on the convention of the charging ownership from Addison to Evolution that exactly can you do to the time effect when the noise holding you to overflow the world in the neighborhood when you have separation the situation won't be sent can change the value of the New York
+
+I and the perception of noise can be 10 characterized the distribution is noise perception basic differentiation factorization noise Dimensions can divide in a random noise on fixing batter nuts and other noise the location and time of course it's not edible and you usually this kind of noise is not too bad because our eyes can average the noise this is not too high and it's not too bad different for a fixed but the noise fix it but the noise is can you observe more easily except a nice and this can increase the decrease the quality of the future itself and the reception in a steel image you have a doctor and the exposing image from pay more visible noise to the proximity to noise floor because we need no level you have a signal that is very close to the noise level when you're defy the low level of signal identify also the noise if you have an underexposite image it's very dark you can amplify I software it's single brightness but you can upsetting Duckett area and don't look cool in the spot blue red that are not of the original Sheen but is that due to the amplification of the noise and random noise is usually averaged by the eye
+
+you cannot observe your level of London noise is also less notable at the height of pregnancy or high special friends this is due to the fact that when you have such a frequency for high temperature noise can increase the contrast of me will you see that you can introduce some noise to increase the contest of image and to announce the image myself what this means you have a very good to me you can increase the point of this image having some random noise because
+
+picture when 10% of pixel random noise now we increase it the battery or that I'm the noise of 25% is more evident that the beautiful area we have different very liable is due to the animal noise and here we have an example of pixel butter nice you have that color but is low about 0.5% , if you increase it mixer muscle noise to 2% the quality ? compared to the senior center of random noise because I have the noise is a Urgent by your
+
+25 the Pizza Hut pizza but the noise 25% abbreviation on the special variation in pixel output under 24 units
+
+another
+
+who was you
+
+talk to me
+
