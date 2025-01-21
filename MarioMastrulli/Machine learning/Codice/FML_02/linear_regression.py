@@ -1,5 +1,7 @@
 import numpy as np
 
+from FML_01.houses_multivariate import X_train
+
 np.random.seed(123)
 
 class LinearRegression:
@@ -30,13 +32,13 @@ class LinearRegression:
 
         for epoch in range(self.n_steps):
             for index in range (0, mt, batch_size):
-                x_i = x_train_shuffled[index:index+batch_size]
-                y_i = y_train_shuffled[index:index+batch_size]
+                x_i = X_train[index:index+batch_size]
+                y_i = y_train[index:index+batch_size]
 
                 pred_i = np.dot(x_i, self.theta)
                 error_i= pred_i - y_i
 
-                self.theta = self.theta-(self.learning_rate/batch_size)* np.dot(x_i.T, error_i)
+            self.theta = self.theta-(self.learning_rate/batch_size)* np.dot(x_i.T, error_i)
             pred_train = np.dot(X_train, self.theta)
             error_train = pred_train - y_train
             cost_history[epoch]= (1/(2*mt)* np.dot(error_train.T, error_train))
